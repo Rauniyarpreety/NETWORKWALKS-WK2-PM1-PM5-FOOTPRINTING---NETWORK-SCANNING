@@ -1,6 +1,7 @@
 # NetworkWalks Week 2 - Penetration Testing Report
 
 **Footprinting and Network Scanning**  
+
 Networkwalks Cybersecurity & Ethical Hacking Internship · W2-PM-FINAL
 
 | Project detail | Information |
